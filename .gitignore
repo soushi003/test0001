@@ -1,0 +1,12 @@
+MPFTechnicalProject/.vs
+MPFTechnicalProject/*.csproj
+MPFTechnicalProject/Library
+MPFTechnicalProject/Temp/
+MPFTechnicalProject/Library/
+MPFTechnicalProject/Packages/
+MPFTechnicalProject/obj/
+MPFTechnicalProject/*.unitypackage
+MPFTechnicalProject/*.sln
+MPFTechnicalProject/UnityPackageManager
+MPFTechnicalProject/*.collabignore
+MPFTechnicalProject/AssetBundles/
