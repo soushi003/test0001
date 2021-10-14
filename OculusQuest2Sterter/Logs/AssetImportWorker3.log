@@ -1,0 +1,153 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.2f1 (068178b99f32) revision 426360'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19043.1237; Version 2009; 64bit' Language: 'ja' Physical Memory: 16282 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+C:/Unity/VROculusQuest/OculusQuest2Sterter
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+52898
+Successfully changed project path to: C:/Unity/VROculusQuest/OculusQuest2Sterter
+C:/Unity/VROculusQuest/OculusQuest2Sterter
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 199.63 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 16.17 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Unity/VROculusQuest/OculusQuest2Sterter/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   
+    VRAM:     8141 MB
+    Driver:   27.20.100.8854
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56272
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003752 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 153.69 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.15 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  8.742 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005459 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.23 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+[XR] OculusXRPlugin: registering subsystems
+[XR] Unable to register display lifecyle provider: [1]
+[XR] Oculus Input lifecycle provider registered.
+[XR] Unable to register input lifecyle provider: [1]
+[XR] OVRP version 1.52.1
+Mono: successfully reloaded assembly
+- Completed reload, in  2.928 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.25 seconds
+Refreshing native plugins compatible for Editor in 1.10 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.15 ms.
+Unloading 1733 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.3 MB.
+System memory in use after: 90.4 MB.
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 2156.
+Total: 3.801100 ms (FindLiveObjects: 1.349800 ms CreateObjectMapping: 0.222400 ms MarkObjects: 2.095700 ms  DeleteObjects: 0.131100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/VRGameSterter/Script/ArmsScript/VRMountHundSystem/VRMountHundSystem.cs
+  artifactKey: Guid(2c3b91cfaf7a2b04c88078363770071b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VRGameSterter/Script/ArmsScript/VRMountHundSystem/VRMountHundSystem.cs using Guid(2c3b91cfaf7a2b04c88078363770071b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85fe01afb22f5e23b86a552cb7e50511') in 0.456889 seconds
+  Import took 0.494906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 223.261334 seconds.
+  path: Assets/Game/Tester/SampleScript/ItemIDSystem.cs
+  artifactKey: Guid(2815b6e09c34bf2409f9ab7865ae1bde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Tester/SampleScript/ItemIDSystem.cs using Guid(2815b6e09c34bf2409f9ab7865ae1bde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b38dc9ebd742cf7573388c9abf38aa80') in 0.435621 seconds
+  Import took 0.540994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.190583 seconds.
+  path: Assets/Game/Tester/SampleScript/ItemIDSystem.cs
+  artifactKey: Guid(2815b6e09c34bf2409f9ab7865ae1bde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Tester/SampleScript/ItemIDSystem.cs using Guid(2815b6e09c34bf2409f9ab7865ae1bde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79bdbcb8b38200c844506e587e03e952') in 0.198396 seconds
+  Import took 0.216988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.279554 seconds.
+  path: Assets/Game/Tester/SampleScript/ItemIDSystem.cs
+  artifactKey: Guid(2815b6e09c34bf2409f9ab7865ae1bde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Tester/SampleScript/ItemIDSystem.cs using Guid(2815b6e09c34bf2409f9ab7865ae1bde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af555211d6c6bdeae4654a28501bef77') in 0.028141 seconds
+  Import took 0.035726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.080064 seconds.
+  path: Assets/Game/Tester/SampleScript/ItemIDSystem.cs
+  artifactKey: Guid(2815b6e09c34bf2409f9ab7865ae1bde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Tester/SampleScript/ItemIDSystem.cs using Guid(2815b6e09c34bf2409f9ab7865ae1bde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af555211d6c6bdeae4654a28501bef77') in 0.053409 seconds
+  Import took 0.185714 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.015806 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.68 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.13 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.046 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 2.21 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.18 ms.
+Unloading 1676 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.3 MB.
+System memory in use after: 85.4 MB.
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 2160.
+Total: 4.637700 ms (FindLiveObjects: 0.292300 ms CreateObjectMapping: 0.183900 ms MarkObjects: 4.038200 ms  DeleteObjects: 0.120500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
