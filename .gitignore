@@ -10,3 +10,15 @@ OculusQuest2Sterter/*.sln
 OculusQuest2Sterter/UnityPackageManager
 OculusQuest2Sterter/*.collabignore
 OculusQuest2Sterter/AssetBundles/
+OculusQuest2 Test/.vs
+OculusQuest2 Test/*.csproj
+OculusQuest2 Test/Library
+OculusQuest2 Test/Temp/
+OculusQuest2 Test/Library/
+OculusQuest2 Test/Packages/
+OculusQuest2 Test/obj/
+OculusQuest2 Test/*.unitypackage
+OculusQuest2 Test/*.sln
+OculusQuest2 Test/UnityPackageManager
+OculusQuest2 Test/*.collabignore
+OculusQuest2 Test/AssetBundles/
