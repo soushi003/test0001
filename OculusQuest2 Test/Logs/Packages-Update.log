@@ -45,7 +45,11 @@ The following packages were 追加済:
   com.unity.timeline@1.4.5
   com.unity.ugui@1.0.0
 
+<<<<<<< HEAD
 === Thu Oct 28 10:02:46 2021
+=======
+=== Thu Oct 28 10:52:25 2021
+>>>>>>> hashitani
 
 Packages were changed.
 Update Mode: resetToDefaultDependencies
