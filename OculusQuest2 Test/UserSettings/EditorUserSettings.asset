@@ -24,13 +24,17 @@ EditorUserSettings:
       value: 22424703114646740e1b0037036c692259241b2f222d357f0e261327f0ef3834e7f51be6e33f332f7717e1351027
       flags: 0
     RecentlyUsedScenePath-1:
-      value: 224247031146467c0c03096d24264c04130557192d25363c281f2f07e7f3203df0a923e7ee2e26
-      flags: 0
-    RecentlyUsedScenePath-2:
       value: 22424703114646680e0b0227036c6c111b07142f1f2b233e2867083debf42d
       flags: 0
-    RecentlyUsedScenePath-3:
+    RecentlyUsedScenePath-2:
       value: 22424703114646530c1d042b04225119593f2b19623d28393930
+      flags: 0
+    RecentlyUsedScenePath-3:
+<<<<<<< HEAD
+      value: 22424703114646530c1d042b04225119593f2b19623d28393930
+>>>>>>> hashitani
+=======
+      value: 224247031146467c0c03096d24264c04130557192d25363c281f2f07e7f3203df0a923e7ee2e26
 >>>>>>> hashitani
       flags: 0
     vcSharedLogLevel:
