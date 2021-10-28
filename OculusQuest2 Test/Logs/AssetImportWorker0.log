@@ -1,0 +1,151 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.2f1 (068178b99f32) revision 426360'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1288; Version 2009; 64bit' Language: 'ja' Physical Memory: 16086 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/zabie/Desktop/VR授業/github/test0001/OculusQuest2 Test
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61889
+Successfully changed project path to: C:/Users/zabie/Desktop/VR授業/github/test0001/OculusQuest2 Test
+C:/Users/zabie/Desktop/VR授業/github/test0001/OculusQuest2 Test
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 210.88 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 2.92 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/zabie/Desktop/VR授業/github/test0001/OculusQuest2 Test/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x3ea0)
+    Vendor:   
+    VRAM:     8043 MB
+    Driver:   26.20.100.7927
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56136
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007885 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 133.65 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.18 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.664 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.010123 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.26 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.21 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+[XR] OculusXRPlugin: registering subsystems
+[XR] Unable to register display lifecyle provider: [1]
+[XR] Oculus Input lifecycle provider registered.
+[XR] Unable to register input lifecyle provider: [1]
+[XR] LoadLibraryA on  ��r� failed, error = 126
+[XR] OculusXRPlugin: Failed to load ovrplugin library
+Failed to load OVRPlugin.dll
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+Unity.XR.Oculus.OculusLoader:EditorLoadOVRPlugin () (at Library/PackageCache/com.unity.xr.oculus@1.6.1/Runtime/OculusLoader.cs:229)
+
+(Filename: Library/PackageCache/com.unity.xr.oculus@1.6.1/Runtime/OculusLoader.cs Line: 229)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.158 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 1.25 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.20 ms.
+Unloading 1729 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.0 MB.
+System memory in use after: 91.0 MB.
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 2154.
+Total: 5.012900 ms (FindLiveObjects: 0.444900 ms CreateObjectMapping: 0.162500 ms MarkObjects: 4.117000 ms  DeleteObjects: 0.285100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Okazaki
+  artifactKey: Guid(93bddc809f7f27f4687dd334dfa5d2eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Okazaki using Guid(93bddc809f7f27f4687dd334dfa5d2eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b6df32c107be84e0876d45ee82f65b5') in 0.025840 seconds
+  Import took 0.034090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1761.246413 seconds.
+  path: Assets/Okazaki/TestSence.unity
+  artifactKey: Guid(3862237877735fe48a6a4ca688660ae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Okazaki/TestSence.unity using Guid(3862237877735fe48a6a4ca688660ae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0feab397f80eeb620ee641a76376f2ac') in 0.014197 seconds
+  Import took 0.019322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.369398 seconds.
+  path: Assets/Okazaki/Script
+  artifactKey: Guid(85ed1fea12d84d2438557e6a46202159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Okazaki/Script using Guid(85ed1fea12d84d2438557e6a46202159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25dbcedb4a23a04fba320e3082792378') in 0.004427 seconds
+  Import took 0.007662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.400773 seconds.
+  path: Assets/Okazaki/Prefab
+  artifactKey: Guid(f239cf7a52a48d54da2572d6cd867f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Okazaki/Prefab using Guid(f239cf7a52a48d54da2572d6cd867f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57ea0e8ebf8ae82168d86aaaea1114be') in 0.003403 seconds
+  Import took 0.007178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000831 seconds.
+  path: Assets/Okazaki/Prefab
+  artifactKey: Guid(f239cf7a52a48d54da2572d6cd867f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Okazaki/Prefab using Guid(f239cf7a52a48d54da2572d6cd867f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57ea0e8ebf8ae82168d86aaaea1114be') in 0.002881 seconds
+  Import took 0.005665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 665.898721 seconds.
+  path: Assets/Oculus
+  artifactKey: Guid(eb9296714465c664cbbd09376c4bdeab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus using Guid(eb9296714465c664cbbd09376c4bdeab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42529c9188532c7d63afdd4584c26ad8') in 0.004319 seconds
+  Import took 0.008077 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.080281 seconds.
+  path: Assets/Oculus/OculusProjectConfig.asset
+  artifactKey: Guid(5bc4850dfd5d50c4a9e4194db309b0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/OculusProjectConfig.asset using Guid(5bc4850dfd5d50c4a9e4194db309b0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e4f6ae9b53883d1408753e4a2a6ab76') in 0.024894 seconds
+  Import took 0.027597 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
