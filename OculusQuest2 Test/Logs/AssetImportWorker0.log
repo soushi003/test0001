@@ -1250,3 +1250,128 @@ System memory in use after: 96.1 MB.
 Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2076.
 Total: 1.690800 ms (FindLiveObjects: 0.182400 ms CreateObjectMapping: 0.057600 ms MarkObjects: 1.430500 ms  DeleteObjects: 0.019100 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001712 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.659 seconds
+Platform modules already initialized, skipping
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
+Unloading 1581 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.8 MB.
+System memory in use after: 95.9 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2078.
+Total: 1.728900 ms (FindLiveObjects: 0.199800 ms CreateObjectMapping: 0.102100 ms MarkObjects: 1.401200 ms  DeleteObjects: 0.024400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001763 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.690 seconds
+Platform modules already initialized, skipping
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Unloading 1582 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.0 MB.
+System memory in use after: 96.2 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2081.
+Total: 1.599800 ms (FindLiveObjects: 0.184200 ms CreateObjectMapping: 0.062100 ms MarkObjects: 1.335400 ms  DeleteObjects: 0.016300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2472.578542 seconds.
+  path: Assets/hashitani/Mistery Safe.cs
+  artifactKey: Guid(b02081a6499fa2046acd92048392c316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hashitani/Mistery Safe.cs using Guid(b02081a6499fa2046acd92048392c316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f351a647f347d3d4c47f4eaf4f43dc48') in 0.006027 seconds
+  Import took 0.009676 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001881 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.728 seconds
+Platform modules already initialized, skipping
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+Unloading 1582 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.0 MB.
+System memory in use after: 96.1 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2083.
+Total: 1.781400 ms (FindLiveObjects: 0.165200 ms CreateObjectMapping: 0.057300 ms MarkObjects: 1.537600 ms  DeleteObjects: 0.020200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.777494 seconds.
+  path: Assets/hashitani/Mystery Safe.cs
+  artifactKey: Guid(b02081a6499fa2046acd92048392c316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hashitani/Mystery Safe.cs using Guid(b02081a6499fa2046acd92048392c316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cbbd38caddd276ff97e074b4c34aa8e') in 0.005130 seconds
+  Import took 0.007969 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001686 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.683 seconds
+Platform modules already initialized, skipping
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Unloading 1582 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.1 MB.
+System memory in use after: 96.2 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2085.
+Total: 1.624300 ms (FindLiveObjects: 0.154500 ms CreateObjectMapping: 0.052400 ms MarkObjects: 1.400900 ms  DeleteObjects: 0.015500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 313.508042 seconds.
+  path: Assets/hashitani/Mystery Safe.cs
+  artifactKey: Guid(b02081a6499fa2046acd92048392c316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hashitani/Mystery Safe.cs using Guid(b02081a6499fa2046acd92048392c316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c7bd35e4978675cd914cce74949fdc0') in 0.005743 seconds
+  Import took 0.009017 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
