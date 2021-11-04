@@ -1,0 +1,270 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.2f1 (068178b99f32) revision 426360'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19043.1288; Version 2009; 64bit' Language: 'ja' Physical Memory: 16207 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\2020.2.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Github/git/test0001/OculusQuest2 Test
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59446
+Successfully changed project path to: C:/Github/git/test0001/OculusQuest2 Test
+C:/Github/git/test0001/OculusQuest2 Test
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 52.04 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.67 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path C:/Program Files/2020.2.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Github/git/test0001/OculusQuest2 Test/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f15)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   30.0.14.9613
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/2020.2.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/2020.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/2020.2.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56248
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/2020.2.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/2020.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001780 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 45.27 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.465 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002048 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+[XR] OculusXRPlugin: registering subsystems
+[XR] Unable to register display lifecyle provider: [1]
+[XR] Oculus Input lifecycle provider registered.
+[XR] Unable to register input lifecyle provider: [1]
+[XR] OVRP version 1.52.1
+Mono: successfully reloaded assembly
+- Completed reload, in  0.812 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.57 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Unloading 2103 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 104.5 MB.
+System memory in use after: 104.6 MB.
+
+Unloading 107 unused Assets to reduce memory usage. Loaded Objects now: 2523.
+Total: 2.029000 ms (FindLiveObjects: 0.193300 ms CreateObjectMapping: 0.085500 ms MarkObjects: 1.609100 ms  DeleteObjects: 0.140300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Resources
+  artifactKey: Guid(a183261f627ef4f4897c0da208291bd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources using Guid(a183261f627ef4f4897c0da208291bd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5aacb0a570a54dcf0d62b77372902ed9') in 0.007420 seconds
+  Import took 0.009950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.394760 seconds.
+  path: Assets/Alstrainfinite
+  artifactKey: Guid(21f40d4530d541640832a189d6c0b112) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstrainfinite using Guid(21f40d4530d541640832a189d6c0b112) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a93c5dbdd297ff8f50c2b44d61abd575') in 0.005414 seconds
+  Import took 0.008530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.062453 seconds.
+  path: Assets/Alstrainfinite/KitchenAppliances
+  artifactKey: Guid(08439e03da5981e4e9c7d67121589928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstrainfinite/KitchenAppliances using Guid(08439e03da5981e4e9c7d67121589928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82088977a3aeebaaa434c89ce4409a5f') in 0.005308 seconds
+  Import took 0.008501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.959411 seconds.
+  path: Assets/Alstrainfinite/KitchenAppliances/Prefabs
+  artifactKey: Guid(657babed12cee9a4aa7f31cc9efe2082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstrainfinite/KitchenAppliances/Prefabs using Guid(657babed12cee9a4aa7f31cc9efe2082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '638c5e9cadf36790d7f2f2fca7924007') in 0.006133 seconds
+  Import took 0.009780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 133.719437 seconds.
+  path: Assets/Monqo Flower Ceramic Vases
+  artifactKey: Guid(148dab71fac83c54ab6ebfdd18903e57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monqo Flower Ceramic Vases using Guid(148dab71fac83c54ab6ebfdd18903e57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b57f911be5b8b9fb02f44fe5cea330b') in 0.005713 seconds
+  Import took 0.009387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.916352 seconds.
+  path: Assets/Monqo Flower Ceramic Vases/Demo
+  artifactKey: Guid(08a0f9b5f5c0eca44acfcb77bc3c1c22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monqo Flower Ceramic Vases/Demo using Guid(08a0f9b5f5c0eca44acfcb77bc3c1c22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e7cd540fb045ce8b6218ad03563edde') in 0.005772 seconds
+  Import took 0.008950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.070521 seconds.
+  path: Assets/Monqo Flower Ceramic Vases/Materials
+  artifactKey: Guid(8a03adee94e617f408a0a43e7d15346e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monqo Flower Ceramic Vases/Materials using Guid(8a03adee94e617f408a0a43e7d15346e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dfbc362bacda7386cdab3014a7b6f19') in 0.005460 seconds
+  Import took 0.008695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.557148 seconds.
+  path: Assets/Monqo Flower Ceramic Vases/Models
+  artifactKey: Guid(e1769eeddfcb1964b9970d86a32fe9fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monqo Flower Ceramic Vases/Models using Guid(e1769eeddfcb1964b9970d86a32fe9fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66d31578019771fb35597fe782af5aab') in 0.005813 seconds
+  Import took 0.008890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.716769 seconds.
+  path: Assets/Monqo Flower Ceramic Vases/Models/Vase.fbx
+  artifactKey: Guid(135e668954aa8434399b52e0a1d510d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monqo Flower Ceramic Vases/Models/Vase.fbx using Guid(135e668954aa8434399b52e0a1d510d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c5e2312b41a4cf5e92524fa8a32a176') in 0.159688 seconds
+  Import took 0.162652 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.409156 seconds.
+  path: Assets/Monqo Flower Ceramic Vases/_Prefabs
+  artifactKey: Guid(a003b9b584eaea94d88ff4db4be80736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monqo Flower Ceramic Vases/_Prefabs using Guid(a003b9b584eaea94d88ff4db4be80736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1baac3db60aa8847c42b828a4c239b3a') in 0.006373 seconds
+  Import took 0.009664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.003477 seconds.
+  path: Assets/Monqo Flower Ceramic Vases/_Prefabs/VaseB.prefab
+  artifactKey: Guid(e552b2f7634ec0045a53e296378ed157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monqo Flower Ceramic Vases/_Prefabs/VaseB.prefab using Guid(e552b2f7634ec0045a53e296378ed157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cea627d1433717720f9a6c913ac8b79') in 0.966214 seconds
+  Import took 0.969241 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 10.98 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.09 ms.
+Unloading 26 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.7 MB.
+System memory in use after: 73.9 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2566.
+Total: 11.592300 ms (FindLiveObjects: 0.443900 ms CreateObjectMapping: 0.181000 ms MarkObjects: 10.934400 ms  DeleteObjects: 0.031400 ms)
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 6.19 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Unloading 26 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.8 MB.
+System memory in use after: 73.9 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2566.
+Total: 2.473000 ms (FindLiveObjects: 0.262800 ms CreateObjectMapping: 0.088800 ms MarkObjects: 2.101900 ms  DeleteObjects: 0.017200 ms)
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 11.08 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.09 ms.
+Unloading 26 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.7 MB.
+System memory in use after: 74.8 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2566.
+Total: 3.104800 ms (FindLiveObjects: 0.364800 ms CreateObjectMapping: 0.169200 ms MarkObjects: 2.546300 ms  DeleteObjects: 0.023400 ms)
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 6.14 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.05 ms.
+Unloading 26 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.8 MB.
+System memory in use after: 74.9 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2566.
+Total: 3.398200 ms (FindLiveObjects: 0.351800 ms CreateObjectMapping: 0.178900 ms MarkObjects: 2.847900 ms  DeleteObjects: 0.018700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002142 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.09 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.825 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Unloading 2015 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 112.5 MB.
+System memory in use after: 112.6 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2569.
+Total: 2.095200 ms (FindLiveObjects: 0.229100 ms CreateObjectMapping: 0.073200 ms MarkObjects: 1.775400 ms  DeleteObjects: 0.016500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 6.36 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.05 ms.
+Unloading 26 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.6 MB.
+System memory in use after: 74.7 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2569.
+Total: 2.174700 ms (FindLiveObjects: 0.218600 ms CreateObjectMapping: 0.098500 ms MarkObjects: 1.840700 ms  DeleteObjects: 0.015400 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
