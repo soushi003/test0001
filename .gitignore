@@ -22,3 +22,5 @@ OculusQuest2 Test/*.sln
 OculusQuest2 Test/UnityPackageManager
 OculusQuest2 Test/*.collabignore
 OculusQuest2 Test/AssetBundles/
+OculusQuest2 Test/Logs/
+OculusQuest2 Test/UserSettings/
